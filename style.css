@@ -6,7 +6,7 @@ align-items: center;
 }
 .Container{
     height: 823px;
-    width: 824px;
+    width: 826px;
     border: 2px solid;
     display: flex;
     flex-wrap: wrap;
